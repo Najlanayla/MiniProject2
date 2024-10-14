@@ -11,6 +11,7 @@ Tema : Sistem Manajemen Taman Kanak-Kanak
 Sistem Manajemen TK adalah aplikasi sederhana yang dirancang untuk mengelola data guru dan siswa di sebuah Taman Kanak-Kanak (TK). Aplikasi ini memungkinkan pengguna untuk menambah, menghapus, dan melihat daftar guru serta siswa dengan menggunakan bahasa pemrograman Java. Dengan fitur CRUD (Create, Read, Update, Delete), sistem ini memberikan solusi yang efisien dalam pengelolaan data sekolah.
 
 # Ketentuan Mini Project
+1. Penerapan ketentuan MiniProject 1
 1. Inheritance 
 2. Encapsulation (getter dan setter)
 3. Abstraction
